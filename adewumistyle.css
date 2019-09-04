@@ -1,0 +1,48 @@
+body{
+    background: blanchedalmond
+}
+.clr{
+    clear: both;
+}
+#container{
+    background: whitesmoke;
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#header {
+    background-color: blue;
+    color:white;
+    text-align: center;
+}
+#content {
+    padding: 5px; 
+    position: relative;
+}
+#nav {
+    width: 25%;
+    float: right;
+    right: 10px;  
+}
+#nav ul {list-style-type:none; 
+}
+
+h3 {
+    color: blue;
+}
+h1 {
+    margin: 0;
+}
+
+#main {
+    float: left;
+    width:70%;
+}
+
+
+#footer{
+    clear: both;
+    background-color: rgb(183, 0, 255);
+    color:rgb(255, 255, 255);
+    text-align: center;
+}
